@@ -18,4 +18,4 @@ let me = {
 let student = Object.create(me);
 student.age = 37;
 
-getObject(grisha);
+getObject(student);
